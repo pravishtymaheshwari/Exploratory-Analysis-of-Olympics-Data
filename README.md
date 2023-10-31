@@ -1,4 +1,4 @@
-# Data-Exploration-of-Olympic-1896-2016-using-SQL
+# Exploratory-Analysis-of-Olympics-Data-using-SQL
 
 Olympic Dataset: The dataset contains olympic history of 120 years i.e from 1896 to 2016. There 2 excel files. 
 
